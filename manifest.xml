@@ -9,11 +9,11 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Corporate Signature" />
   <Description DefaultValue="Automatically applies the corporate email signature on Outlook for Mac and Outlook Mobile." />
-  <IconUrl DefaultValue="https://hr.ain-eg.com/outlook-addin/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://hr.ain-eg.com/outlook-addin/icon-64.png" />
+  <IconUrl DefaultValue="https://mahmoudsherif888-ops.github.io/outlook-signature-addin/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://mahmoudsherif888-ops.github.io/outlook-signature-addin/icon-64.png" />
   <SupportUrl DefaultValue="mailto:it-support@ain-eg.com" />
   <AppDomains>
-    <AppDomain>https://hr.ain-eg.com</AppDomain>
+    <AppDomain>https://mahmoudsherif888-ops.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox" />
@@ -26,7 +26,7 @@
   <FormSettings>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://hr.ain-eg.com/outlook-addin/function-file.html" />
+        <SourceLocation DefaultValue="https://mahmoudsherif888-ops.github.io/outlook-signature-addin/function-file.html" />
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -42,7 +42,7 @@
     </Requirements>
     <Resources>
       <bt:Urls>
-        <bt:Url id="functionFile0" DefaultValue="https://hr.ain-eg.com/outlook-addin/function-file.html" />
+        <bt:Url id="functionFile0" DefaultValue="https://mahmoudsherif888-ops.github.io/outlook-signature-addin/function-file.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="AppName" DefaultValue="Corporate Signature" />
@@ -88,9 +88,9 @@
       </Hosts>
       <Resources>
         <bt:Urls>
-          <bt:Url id="functionFile1" DefaultValue="https://hr.ain-eg.com/outlook-addin/function-file.html" />
-          <bt:Url id="runtime0" DefaultValue="https://hr.ain-eg.com/outlook-addin/function-file.html" />
-          <bt:Url id="runtime0Js" DefaultValue="https://hr.ain-eg.com/outlook-addin/function-file.js" />
+          <bt:Url id="functionFile1" DefaultValue="https://mahmoudsherif888-ops.github.io/outlook-signature-addin/function-file.html" />
+          <bt:Url id="runtime0" DefaultValue="https://mahmoudsherif888-ops.github.io/outlook-signature-addin/function-file.html" />
+          <bt:Url id="runtime0Js" DefaultValue="https://mahmoudsherif888-ops.github.io/outlook-signature-addin/function-file.js" />
         </bt:Urls>
       </Resources>
     </VersionOverrides>

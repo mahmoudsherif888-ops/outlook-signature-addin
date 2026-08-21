@@ -11,7 +11,7 @@
 //
 // DIRECTORY_URL must point at the signatures-directory.json file generated
 // by Export-SignatureDirectory.ps1 and hosted alongside this file.
-var DIRECTORY_URL = "https://hr.ain-eg.com/outlook-addin/signatures-directory.json";
+var DIRECTORY_URL = "https://mahmoudsherif888-ops.github.io/outlook-signature-addin/signatures-directory.json";
 
 function shouldApplyOnThisPlatform() {
   try {
