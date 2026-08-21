@@ -1,0 +1,40 @@
+{
+  "mahmoud.sherif@takeit-eg.com": {
+    "name": "Mahmoud Sherif",
+    "title": "IT Infrastructure & Cloud Manager",
+    "phone": "01026000586",
+    "logoUrl": "https://hr.ain-eg.com/images/companies-logos/takeit.png"
+  },
+   "ahmed.zaki@mkenterprise-eg.com":  {
+                                           "name":  "Ahmed Zaki",
+                                           "title":  "Senior Full-Stack Developer",
+                                           "phone":  "01016357183",
+                                           "logoUrl":  "https://hr.ain-eg.com/images/companies-logos/mkenterprise.png"
+                                       },
+
+
+ "karim.barakat@takeit-eg.com":  {
+                                        "name":  "Karim Barakat",
+                                        "title":  "Acting IT Applications Team Leader",
+                                        "phone":  "01099360944",
+                                        "logoUrl":  "https://hr.ain-eg.com/images/companies-logos/takeit.png"
+                                    },
+
+"islam.sherif@takeit-eg.com":  {
+                                       "name":  "Islam Sherif",
+                                       "title":  "IT Director",
+                                       "phone":  "01026000584",
+                                       "logoUrl":  "https://hr.ain-eg.com/images/companies-logos/takeit.png"
+                                   },
+
+"khaled.abdelmoniem@takeit-eg.com":  {
+                                             "name":  "Khaled Abdelmoniem",
+                                             "title":  "IT Help Desk Trainee",
+                                             "phone":  "01017934321",
+                                             "logoUrl":  "https://hr.ain-eg.com/images/companies-logos/takeit.png"
+                                         }
+
+
+
+
+}
